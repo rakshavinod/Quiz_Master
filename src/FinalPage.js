@@ -26,7 +26,7 @@ const FinalPage = () => {
    
     <Grid container rowSpacing={1} columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
   <Grid item xs={6}>
-    <Item>  <img src={congratulations} style={{width:"250px", height:"300px", display:"flex", paddingTop:"10px", paddingLeft:"25px"}}/></Item>
+    <Item>  <img src={congratulations} style={{width:"250px", height:"300px", display:"flex", paddingTop:"10px", paddingLeft:"25px"}} alt="Congratulations"/></Item>
   </Grid>
   <Grid item xs={6} >
     <Item>

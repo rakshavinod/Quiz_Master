@@ -48,7 +48,7 @@ const HomePage= ({children}) => {
             <div>
              <AppBar component="nav" color="primary">
         <Toolbar>
-          <img src={Logo} style={{width:"60px"}}/>
+          <img src={Logo} style={{width:"60px"}} alt="Logo"/>
           <Typography
             variant="h4"
             component="div"
@@ -63,7 +63,7 @@ const HomePage= ({children}) => {
           ):(
       <AppBar component="nav" color="primary">
         <Toolbar>
-          <img src={Logo} style={{width:"60px"}}/>
+          <img src={Logo} style={{width:"60px"}} alt="Logo"/>
           <Typography
             variant="h4"
             component="div"
