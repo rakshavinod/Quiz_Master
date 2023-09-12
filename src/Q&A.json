@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "question":"What is the largest planet in our solar system?",
+        "options":["Earth", "Mars", "Jupiter", "Venus"],
+        "answer":"Jupiter"
+    },
+    {
+        "id":"2",
+        "question":"Which gas do plants absorb from the air during photosynthesis?",
+        "options":["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer":"Carbon dioxide"
+    },
+    {
+        "id":"3",
+        "question":"Who wrote the famous play Romeo and Juliet?",
+        "options":["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        "answer":"William Shakespeare"
+    },
+    {
+        "id":"4",
+        "question":"What is the capital city of France?",
+        "options":["London", "Berlin", "Rome", "Paris"],
+        "answer":"Paris"
+    },
+    {
+        "id":"5",
+        "question":"Which planet is known as the Red Planet?",
+        "options":["Mars", "Venus", "Jupiter", "Saturn"],
+        "answer":"Mars"
+    },
+    {
+        "id":"6",
+        "question":"What is the chemical symbol for water?",
+        "options":["Wo", "H2O", "O2", "CO2"],
+        "answer":"H2O"
+    },
+    {
+        "id":"7",
+        "question":"Which of the following animals is a herbivore?",
+        "options":["Lion", "Eagle", "Cow", "Shark"],
+        "answer":"Cow"
+    },
+    {
+        "id":"8",
+        "question":"How many continents are there on Earth?",
+        "options":["5", "6", "7", "8"],
+        "answer":"7"
+    },
+    {
+        "id":"9",
+        "question":"Which famous scientist formulated the laws of motion and universal gravitation?",
+        "options":["Albert Einstein", "Isaac Newton", "Galileo Galilei", " Marie Curie"],
+        "answer":" Isaac Newton"
+    },
+    {
+        "id":"10",
+        "question":"What is the closest star to Earth?",
+        "options":["Sirius", "Alpha Centauri", "Polaris", "Betelgeuse"],
+        "answer":"Alpha Centauri"
+    }
+]
