@@ -17,7 +17,7 @@ const violetMain = alpha(violetBase, 0.7);
 const navItems = [
   {label:'Home', to:"/"},
   {label:'About', to:"/about"},
-  {label:'Login', to:"/login"}
+  {label:'Login', to:"/Login"}
 ];
 
 const theme = createTheme({
